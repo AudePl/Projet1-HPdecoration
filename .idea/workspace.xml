@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51b0d556-e452-406b-b338-24833f554f94" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/images/bain4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bain4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prestation.html" beforeDir="false" afterPath="$PROJECT_DIR$/prestation.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iHgJK8q0Y0MHuQrc5U6teM6K69" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51b0d556-e452-406b-b338-24833f554f94" name="Default Changelist" comment="" />
+      <created>1601569857685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601569857685</updated>
+      <workItem from="1601569858723" duration="6053000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="172" y="127" width="1648" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601578682093">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="172" y="127" width="1648" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1601578682093" />
+    <state x="686" y="263" width="928" height="730" key="find.popup" timestamp="1601580342715">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="686" y="263" width="928" height="730" key="find.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1601580342715" />
+  </component>
+</project>
