@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51b0d556-e452-406b-b338-24833f554f94" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PROJET1bis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/46e3381e9569c09e85a30b9e5a2af7525ee9fd78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/7388305119c76711b12be21ebe50d067eb54df56" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6013a00b362253c64368d6eebc50ea2131754e2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Chambre1-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Chambre7-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Chambre8-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Cuisine1-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Cuisine2-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Cuisine4-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Cuisine5-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Cuisine6-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Cuisine7-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Cuisine8-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Cuisine9-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Logohp-32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bain1-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bain3-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bain4-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bain5-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bain7-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/chambre2-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/chambre5-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/chambre6-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/chambre9-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couloir-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couloir1-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/couloir2-500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cuisine-500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cuisine2.1-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/deco-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/exterieur_vue-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/facebook-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fenetre-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/instagram-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lacour-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/menu-25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mur-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/salon-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/twitter-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/white-washed-floors-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Chambre1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Chambre1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Chambre7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Chambre7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Chambre8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Chambre8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cuisine1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Cuisine1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cuisine2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Cuisine2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cuisine4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Cuisine4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cuisine5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Cuisine5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cuisine6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Cuisine6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cuisine7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Cuisine7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cuisine8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Cuisine8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cuisine9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Cuisine9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Logohp.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Logohp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Man.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Man.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bain1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bain1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bain3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bain3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bain4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bain4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bain5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bain5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bain7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bain7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/chambre2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/chambre2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/chambre5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/chambre5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/chambre6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/chambre6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/chambre9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/chambre9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/couloir.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/couloir.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/couloir1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/couloir1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/couloir2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/couloir2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cuisine.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/cuisine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cuisine2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/cuisine2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/daughter.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/daughter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/deco.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/deco.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/exterieur_vue.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/exterieur_vue.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fenetre.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/fenetre.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/home.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/home.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lacour.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lacour.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/menu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mur.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/mur.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/salon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/salon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/white-washed-floors.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/white-washed-floors.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/woman.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/woman.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prestation.html" beforeDir="false" afterPath="$PROJECT_DIR$/prestation.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iHgJK8q0Y0MHuQrc5U6teM6K69" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51b0d556-e452-406b-b338-24833f554f94" name="Default Changelist" comment="" />
+      <created>1601569857685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601569857685</updated>
+      <workItem from="1601569858723" duration="6053000" />
+      <workItem from="1601581652927" duration="322000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="101" y="54" width="1624" height="946" key="MergeDialog" timestamp="1601581896399">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="101" y="54" width="1624" height="946" key="MergeDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1601581896399" />
+    <state x="627" y="314" width="728" height="485" key="MultipleFileMergeDialog" timestamp="1601581896402">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="627" y="314" width="728" height="485" key="MultipleFileMergeDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1601581896402" />
+    <state x="172" y="127" width="1648" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601578682093">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="172" y="127" width="1648" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1601578682093" />
+    <state x="686" y="263" width="928" height="730" key="find.popup" timestamp="1601580342715">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="686" y="263" width="928" height="730" key="find.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1601580342715" />
+  </component>
+</project>
