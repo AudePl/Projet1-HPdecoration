@@ -6,15 +6,15 @@
 </head>
 <body>
 <header>
-    <a href="index.html"><img src="images/Logohp.png" alt = "Logo HP Décoration"></a>
+    <a href="index.php"><img src="images/Logohp.png" alt = "Logo HP Décoration"></a>
     <h1>HP Decoration</h1>
     <nav>
         <img src="images/menu.png" alt="image menu burger">
         <ul>
-            <li><a href="index.html">Accueil</a></li>
+            <li><a href="index.php">Accueil</a></li>
             <li><a href="">Prestations/Réalisations</a></li>
             <li><a href="">Contact</a></li>
-            <li><a href="presse.html">Presse</a></li>
+            <li><a href="presse.php">Presse</a></li>
             <li><a href="">Galerie</a></li>
         </ul>
     </nav>
@@ -48,21 +48,6 @@
                 <img src="images/logotest.jpg" alt="image des logos des partenaires">
             </article>
     </section>
-<footer>
-    <h3>Liens utiles</h3>
-    <ul>
-        <li><a href="">Contact nous</a></li>
-        <li><a href="">Questions frequentes</a></li>
-        <li><a href="">Recrutement</a></li>
-        <li><a href="">Revue de presse</a></li>
-    </ul>
-    <h3>Suivez nous</h3>
-    <ul>
-        <li><a href=""><img src="images/facebook.png" alt="logo Facebook"></a></li>
-        <li><a href=""><img src="images/twitter.png" alt="logo Twitter"></a></li>
-        <li><a href=""><img src="images/instagram.png" alt="logo Instagram"></a></li>
-    </ul>
-    <p class="copyright">Copyright 2020 - When U Are a Wilder 😉</p>
-</footer>
+<?php include 'footer.html';?>
 </body>
 </html>
