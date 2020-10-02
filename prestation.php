@@ -7,20 +7,7 @@
         <link rel="icon" type="image/png" href="images/Logohp-32.jpg" />
     </head>
     <body>
-        <header>
-            <a href="index.php"><img src="images/Logohp.png" alt = "Logo HP Décoration"></a>
-            <h1>HP Decoration</h1>
-            <nav>
-                <!--<img src="images/menu.png">-->
-                <ul>
-                    <li><a href="index.php">Accueil</a></li>
-                    <li><a href="prestation.php">Prestations/Réalisations</a></li>
-                    <li><a href="contact.php">Contact</a></li>
-                    <li><a href="presse.php">Presse</a></li>
-                    <li><a href="">Galerie</a></li>
-                </ul>
-            </nav>
-        </header>
+        <?php include 'header.html';?>
 <!------------------- Menu des prestations -------------------->
         <section>
             <h1>Nos réalisations</h1>

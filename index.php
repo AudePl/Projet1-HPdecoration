@@ -7,20 +7,7 @@
         <link href="style.css" rel="stylesheet">
     </head>
     <body>
-        <header>
-           <a href="index.php"><img src="images/Logohp.png" alt = "Logo HP Décoration"></a>
-            <h1>HP Decoration</h1>
-            <nav>
-                <!--<img src="images/menu.png" alt="images menu burger">-->
-                <ul>
-                    <li><a href="index.php">Accueil</a></li>
-                    <li><a href="prestation.php">Prestations/Réalisations</a></li>
-                    <li><a href="contact.php">Contact</a></li>
-                    <li><a href="presse.php">Presse</a></li>
-                    <li><a href="">Galerie</a></li>
-                </ul>
-            </nav>
-        </header>
+        <?php include 'header.html';?>
         <!------------------- Présentation -------------------->
         <section>
             <h2>HP Decoration - Bordeaux <br> créateur d'intérieur</h2>
