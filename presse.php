@@ -6,18 +6,7 @@
 </head>
 <body>
 <header>
-    <a href="index.php"><img src="images/Logohp.png" alt = "Logo HP Décoration"></a>
-    <h1>HP Decoration</h1>
-    <nav>
-        <img src="images/menu.png" alt="image menu burger">
-        <ul>
-            <li><a href="index.php">Accueil</a></li>
-            <li><a href="">Prestations/Réalisations</a></li>
-            <li><a href="">Contact</a></li>
-            <li><a href="presse.php">Presse</a></li>
-            <li><a href="">Galerie</a></li>
-        </ul>
-    </nav>
+    <?php include 'header.html';?>
 </header>
     <section>
         <h2>On parle de nous dans la presse</h2>
