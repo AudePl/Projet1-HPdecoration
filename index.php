@@ -7,20 +7,7 @@
         <link href="style.css" rel="stylesheet">
     </head>
     <body>
-        <header>
-           <a href="index.html"><img src="images/Logohp.png" alt = "Logo HP Décoration"></a>
-            <h1>HP Decoration</h1>
-            <nav>
-                <!--<img src="images/menu.png" alt="images menu burger">-->
-                <ul>
-                    <li><a href="index.html">Accueil</a></li>
-                    <li><a href="prestation.html">Prestations/Réalisations</a></li>
-                    <li><a href="contact.html">Contact</a></li>
-                    <li><a href="presse.html">Presse</a></li>
-                    <li><a href="">Galerie</a></li>
-                </ul>
-            </nav>
-        </header>
+        <?php include 'header.html';?>
         <!------------------- Présentation -------------------->
         <section>
             <h2>HP Decoration - Bordeaux <br> créateur d'intérieur</h2>
@@ -76,10 +63,10 @@
         <footer>
             <h3>Liens utiles</h3>
             <ul>
-                <li><a href="contact.html">Contact nous</a></li>
+                <li><a href="contact.php">Contact nous</a></li>
                 <li><a href="">Questions frequentes</a></li>
                 <li><a href="">Recrutement</a></li>
-                <li><a href="presse.html">Revue de presse</a></li>
+                <li><a href="presse.php">Revue de presse</a></li>
             </ul>
             <h3>Suivez-nous</h3>
             <ul>

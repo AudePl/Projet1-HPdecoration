@@ -7,20 +7,8 @@
 <body>
 
 <!------------------- Header -------------------->
-<header>
-    <a href="index.html"><img src="images/Logohp.png" alt = "Logo HP Décoration"></a>
-    <h1>HP Decoration</h1>
-    <nav>
-        <img src="images/menu.png" alt="images menu burger">
-        <ul>
-            <li><a href="index.html">Accueil</a></li>
-            <li><a href="">Prestations/Réalisations</a></li>
-            <li><a href="">Contact</a></li>
-            <li><a href="presse.html">Presse</a></li>
-            <li><a href="">Galerie</a></li>
-        </ul>
-    </nav>
-</header>
+
+    <?php include 'header.html';?>
 
 <!------------------- Formulaire de contact -------------------->
 <section class="contact-form">
