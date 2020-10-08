@@ -16,7 +16,7 @@
 <!------------------- Formulaire de contact -------------------->
 <section class="contact-form">
     <h1 class="title-part">Formulaire de contact</h1>
-    <form class="form" method = "" action = "">
+    <form class="form">
         <div class="contact-form">
             <div>
                 <label class="form-label" for="userFirstname">Votre prénom :</label><br>
@@ -64,16 +64,16 @@
 <section class="team-description">
     <h2 class="title-part">Présentation de notre équipe</h2>
     <div class="index-vignette">
-        <div class="vignette">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        <div class="thumbnail">
+            <p>Franck : Designer intérieur</p>
             <img class="picture-collaborateur" src="images/man1-150.jpg" alt="photo collaborateur 1">
         </div>
-        <div class="vignette">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        <div class="thumbnail">
+            <p>Laure : Architecte intérieure</p>
             <img class="picture-collaborateur" src="images/woman2-150.jpg" alt="photo collaboratrice 2">
         </div>
-        <div class="vignette">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        <div class="thumbnail">
+            <p>Philippe : Maître d'oeuvre</p>
             <img class="picture-collaborateur" src="images/man2-150.jpg" alt="photo collaborateur 2">
         </div>
     </div>
