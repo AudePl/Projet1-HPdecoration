@@ -39,7 +39,7 @@
                 <p class="padding_left_small">Modernisation d'une cuisine d'appartement</p>
             </div>
             <div class="thumbnail">
-                <img src="images/Cuisine4-500.jpg" alt="photo cuisine3">
+               <a href="images/Cuisine4.jpg" target="_blank"><img src="images/Cuisine4-500.jpg" alt="photo cuisine3"></a>
                 <p class="padding_left_small">Rénovation d'un espace loft en cuisine ouverte lumineuse</p>
             </div>
             <div class="thumbnail">
@@ -107,7 +107,7 @@
                 <p class="padding_left_small">Décoration d'une chambre pastelle et vintage</p>
             </div>
             <div class="thumbnail">
-                <img src="images/chambre9-500.jpg" alt="photo chambre4">
+                <a href="images/chambre9.jpg" target="_blank"><img src="images/chambre9-500.jpg" alt="photo chambre4"></a>
                 <p class="padding_left_small">Création d'une grande suite parentale moderne lumineuse</p>
             </div>
             <div class="thumbnail">
